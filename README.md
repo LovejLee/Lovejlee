@@ -4,7 +4,7 @@
 
 
   - [Active Directory Home Lab] (https://github.com/Leahjlee/CapstoneProject)
-  - https://1drv.ms/b/s!AgrBKDrPjT9pq2CcdJqQJenS8Cv2?e=jaId60 
+    
 
 <h2>📃Certifications</h2>
   - Auburn University OPCE Cybersecurity Bootcamp Certification
